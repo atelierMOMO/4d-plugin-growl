@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zXd2Q2nxjs3MHF7rOyB9YKa/e2Q=
+			B24s9L2XTMD/opGB0OxIRcs3Wv8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -116,10 +116,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			NE1R7jYT4auxTNw1f1ypUgh8+Q0=
+			olQFK1/iRSRSDUEZ3WD+kdIKacY=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.growl.growlframework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Y69CWUC25B</string>
+			<string>identifier "com.growl.growlframework" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: shirokumakun@me.com (922KU5UM3K)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>QuickLook/Thumbnail.png</key>
 		<dict>
@@ -389,11 +389,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zXd2Q2nxjs3MHF7rOyB9YKa/e2Q=
+			B24s9L2XTMD/opGB0OxIRcs3Wv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			jp/OuuB2/kY/ZyaiZISlhT7uq19TfYu3s9HzPax1sgs=
+			F1PUfHethTU9zLKjZaBpvHWBCfhG8UTyVQgVotz8GK8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -409,36 +409,14 @@
 			2wse/aDoiVRvwRRms3UXMxT5m971ik+DBJqre2RVllY=
 			</data>
 		</dict>
-		<key>Windows/Growl.4DX</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8WH79l2tgViHfCYSUBu+HCIQ5Es=
-			</data>
-			<key>hash2</key>
-			<data>
-			rp5mwPoToTOMBrO5g9ATVRBDkkR1XpJE6MF06FX5mo0=
-			</data>
-		</dict>
-		<key>Windows64/Growl.4DX</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			r1aAHLsl1HqPOxOjnnlVMBT8weQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			D81BlAXC8IYBjKsGDu0nx8Zm3OxlDG6/r2pFvj/FY7A=
-			</data>
-		</dict>
 		<key>manifest.json</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			X8byKHfgP7pGe8t/kA2QjEwDE+Y=
+			pdGsayvqv0SUkqhmdVpErQi8RyE=
 			</data>
 			<key>requirement</key>
-			<string>identifier manifest and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Y69CWUC25B</string>
+			<string>identifier manifest and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: shirokumakun@me.com (922KU5UM3K)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 	</dict>
 	<key>rules</key>
